@@ -1,0 +1,6 @@
+{
+  "name": "Chai Point Menu Writer",
+  "description": "A food copywriter app for Chai Point cafe to write mouth-watering menu descriptions for dishes and ingredients using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
